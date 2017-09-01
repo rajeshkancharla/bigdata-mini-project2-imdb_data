@@ -1,0 +1,1806 @@
+[1] The total number of movies
+49590
+[2] The maximum rating of movies
+4
+[3] The number of movies that have maximum rating
+1477
+[4] The movies with ratings 1 and 2
+4	The Object of Beauty	1991	2	6150
+5	Night Tide	1963	2	5126
+13	The Birth of a Nation	1915	2	12118
+15	Big Doll House	1971	2	5696
+43	Easy Money	1987	2	5794
+59	Darkman II: The Return of Durant	1994	2	5557
+60	The Doom Generation	1995	2	4309
+64	The Baby	1973	2	5101
+74	The Asphyx	1973	2	5193
+91	House of Whipcord	1974	2	6144
+116	Georgia	1995	2	7050
+117	Fascination	1979	2	4900
+128	Girl on a Motorcycle	1968	2	5260
+131	The Pallbearer	1996	2	5882
+153	Caligula	1979	2	6108
+174	Sally of the Sawdust	1925	2	6852
+180	Salome's Last Dance	1988	2	5349
+186	The Toxic Avenger: Part 2	1989	2	6172
+207	Surf Nazis Must Die	1987	2	4943
+221	Dark Planet	1997	2	5800
+226	The Canterbury Tales	1972	2	6676
+231	The Sinful Nuns of St. Valentine	1974	2	5597
+246	Frozen	1997	2	5779
+259	The Mighty Peking Man	1977	2	5451
+267	Baron Blood	1972	2	5877
+270	Hi Life	1998	2	5109
+272	Jack Frost	1997	2	5353
+294	Boogie Boy	1998	2	6229
+301	Little Witches	1996	2	5463
+305	The Godson	1998	2	6033
+310	Breeders	1997	2	5627
+311	Grim	1995	2	5289
+322	Triads: The Inside Story	1989	2	6021
+329	Ready to Wear	1994	2	7973
+330	Daag	1973	2	8389
+332	Barney: Let's Play School	1999	2	2942
+340	The Eternal	1998	2	5706
+347	Guinevere	1999	2	6299
+367	Bay of Blood	1971	2	5060
+378	Lost in New York	1989	2	3261
+390	Deathsport	1978	2	4966
+398	The Sex Monster	1999	2	5842
+422	The Tempest	1979	2	5710
+424	The Van	1977	2	5201
+427	BoyFriends	1996	2	4901
+435	The House of Exorcism	1975	2	5495
+437	Kill  Baby... Kill!	1966	2	5023
+441	Lisa &#38; the Devil	1974	2	5728
+447	Barney's Super Singing Circus	2000	2	2957
+454	Telling You	1998	2	5661
+457	Chronicle of Anna Magdalena Bach	1968	2	5613
+467	Hatchet for the Honeymoon	1970	2	5287
+470	Don't Let Me Die on a Sunday	1998	2	5246
+471	Love's Labour's Lost	2000	2	5624
+479	Beautiful People	1999	2	6446
+486	Condo Painting	2000	2	5152
+493	Wishful Thinking	1999	2	5368
+497	The Awful Dr. Orlof	1962	2	4973
+498	The Girl Who Knew Too Much	1963	2	5146
+509	Solar Crisis	1990	2	6696
+513	Death Machine	1994	2	5955
+517	Female Vampire	1973	2	6034
+523	About Adam	2000	2	5800
+526	Da Hip Hop Witch	2000	1	4800
+530	Frogs	1972	2	5407
+532	The List	2000	2	5285
+533	Sorority House Massacre	1986	2	4442
+534	Stiff Upper Lips	1998	2	5220
+541	Blood Beast Terror	1967	2	5257
+544	Wildflowers	2000	2	5826
+546	Unspeakable: Special Edition	2000	2	4876
+547	Brain Dead	1990	2	5071
+548	Barney: Come on Over to Barney's House	2000	2	3033
+556	Going All the Way	1997	2	6216
+560	Slugs	1987	2	5371
+565	Fugitive Mind	1999	2	5633
+575	Killers	1997	2	4997
+580	2000 A.D.	2000	2	6248
+587	Double Parked	2000	2	5822
+610	Cabiria	1914	2	7684
+619	Destination Vegas	1995	2	5167
+621	Die Screaming  Marianne	1971	2	6042
+622	Confessions of Sorority Girls	1993	2	4946
+631	Casanova '70	1965	2	7077
+655	Immortality	2000	2	5957
+661	Joe	1970	2	6417
+663	Fellini's Casanova	1976	2	9277
+686	Tempest	1928	2	4908
+725	Nice Guys Sleep Alone	2000	2	5466
+733	Not of This Earth	1988	2	4856
+734	Zombie Lake	1981	2	5210
+735	For Bad Boys Only	2000	2	6059
+736	Oasis of the Zombies	1982	2	4879
+741	Orloff and the Invisible Man	1970	2	4557
+748	Hollywood Boulevard	1976	2	4953
+749	The Libertine	1968	2	5484
+751	Rat	2000	2	5511
+759	Lust in the Dust	1985	2	5027
+760	Killer Bud	2001	2	5552
+762	American Virgin	2000	2	5257
+765	Attraction	2000	2	5728
+769	Faust: Love of the Damned	2000	2	6053
+782	Bruiser	2000	2	5973
+783	Bodywork	2001	2	5575
+785	Killer Instinct	2000	2	5250
+788	Beach Blanket Bingo	1965	2	5792
+795	Shopping	1994	2	6391
+796	Strictly Sinatra	2001	2	5833
+806	Deathstalker	1983	2	4597
+807	Backyard Dogs	2000	2	5768
+808	Barbarian Queen	1985	2	4231
+823	Devil's Prey	2001	2	5177
+835	The Unborn	1991	2	4857
+836	Terror Within	1989	2	5263
+839	Killer Klowns from Outer Space	1988	2	5168
+853	Dragstrip Girl	1994	2	4973
+863	Jailbreakers	1994	2	4535
+867	Amazons and Gladiators	2001	2	5363
+874	De Sade	1969	2	6228
+881	The Bad News Bears Go to Japan!	1978	2	5545
+886	The Apocalypse Watch	1997	2	NULL
+892	Everyday is Valentine	2001	2	5979
+895	Nakhuda	1981	2	6723
+896	Vijay	1988	2	10362
+898	Nomads	1986	2	5338
+899	Desperate Hours	1990	2	6302
+915	Adrenalin: Fear the Rush	1996	2	4603
+916	The Mystic Masseur	2001	2	7110
+920	The Last Man	2000	2	5629
+922	World Traveler	2002	2	6188
+930	The Piano Teacher	2002	2	7528
+938	The Beloved Rogue	1927	2	5899
+943	Siberian Lady Macbeth	1962	2	5568
+945	The Gospel According to Philip K. Dick	2000	2	4760
+946	The Toxic Avenger: Part 3	1989	2	6130
+950	To Die For	1994	2	5799
+951	The Void	2001	2	5587
+959	Loaded	1994	2	5752
+960	Love Serenade	1996	2	6073
+964	Office Killer	1997	2	5006
+969	Girls in Prison	1994	2	4946
+971	Spirit Lost	1997	2	5278
+992	Dahmer	2002	2	6132
+996	The Replacement Suspect	2001	2	5419
+999	G-Men from Hell	2001	2	5904
+1004	Citizen Toxie: The Toxic Avenger IV	2002	2	6540
+1009	Ten Tiny Love Stories	2002	2	5824
+1014	The Sidewalks of Bangkok	1984	2	5307
+1015	The Next Big Thing	2001	2	5118
+1016	The Demon Within	2000	2	5710
+1019	Nailed	2001	2	5378
+1023	Munchie	1992	2	4853
+1028	Transylvania 6-5000	1985	2	5666
+1031	The Hills Have Eyes 2	1984	2	5412
+1032	Crimson	1973	2	5146
+1043	Can't Stop the Music	1980	2	7394
+1053	Final Encounter	2000	2	5905
+1054	Interview with the Assassin	2002	2	4988
+1059	Love in the Time of Money	2002	2	5240
+1060	Virgil Bliss	2001	2	5635
+1082	Pete's Meteor	1998	2	6237
+1083	The Sweetest Sound	2001	2	3409
+1084	Morvern Callar	2002	2	5848
+1090	Psychedelic Cop	2002	2	5029
+1092	The Night and the Moment	1994	2	5392
+1096	The Substance of Fire	1996	2	6094
+1112	Female Perversions	1996	2	6829
+1125	A Little Sex	1982	2	5689
+1132	Kippur	2000	2	7244
+1144	Hardware	1990	2	5665
+1147	Sasquatch	2003	2	5155
+1156	.Com for Murder	2002	2	5824
+1158	Roy Colt and Winchester Jack	1970	2	5127
+1161	Cheerleader Massacre	2003	2	4523
+1164	Walking on Water	2002	2	5220
+1168	Visible Secret	2001	2	6099
+1169	Howling 3: The Marsupials	1987	2	5896
+1172	Barney: Let's Go to the Zoo	2002	2	2910
+1181	Stripped to Kill	1987	2	5210
+1190	Pistol Opera	2001	2	6714
+1194	And God Spoke	1993	2	4929
+1196	Lianna	1983	2	6772
+1197	Final Solution	2001	2	6411
+1204	Gacy	2003	2	5306
+1206	Jane White Is Sick &#38; Twisted	2002	2	5055
+1217	The Atlantis Conspiracy	2000	2	5222
+1224	Tempo	2003	2	4997
+1234	Picture Claire	2001	2	5449
+1235	Family Reunion	2003	2	5334
+1237	Dad on the Run	2000	2	5334
+1239	The Advocate	1993	2	6145
+1241	Royal Deceit	1994	2	5130
+1242	Rowing with the Wind	1988	2	5686
+1246	Killers 2: The Beast	2002	2	5204
+1253	Rodentz	2001	2	5409
+1267	Gigli	2003	2	7283
+1268	Seaside	2003	2	5304
+1271	Venus Boyz	2002	2	6126
+1273	Cool and the Crazy	1994	2	5032
+1278	Assault of the Party Nerds	1989	2	4857
+1282	Midnight Mass	2003	2	5895
+1305	Mimic 3: Sentinel	2003	2	4594
+1308	The Greenskeeper	2002	2	4838
+1314	Happy Birthday	2002	2	5680
+1320	The Haunting of Hell House	1999	2	5231
+1399	Promised Land	1987	2	6152
+1405	Let the Devil Wear Black	1999	2	5715
+1411	Dead End Drive-In	1986	2	5217
+1416	In the Cut	2003	2	7145
+1434	Since You've Been Gone	1998	2	5749
+1437	The Bloody Judge	1970	2	6178
+1454	Moon of the Wolf	1972	2	4487
+1470	Chump Change	2000	2	5337
+1476	Dead Sleep	1990	2	5155
+1478	I've Heard the Mermaids Singing	1987	2	4966
+1479	Moondance	1995	2	5566
+1489	Comic Book: The Movie	2004	2	6399
+1492	Cheerleader Ninjas	2003	2	5787
+1493	Shadow Fury	2001	2	5592
+1507	The Last Hand	1997	2	5356
+1512	One from the Heart	1982	2	6153
+1523	The Man Who Bought Mustique	2000	2	4705
+1545	The Job	2003	2	5167
+1547	Best Defense	1984	2	5636
+1556	Shiver	2003	2	5274
+1557	Johnny Suede	1991	2	5817
+1567	Barney: Sing &#38; Dance with Barney	2004	2	3244
+1568	Barney: Movin' and Groovin' with Barney	2004	2	2429
+1578	Serial Killing 101	2004	2	5334
+1604	My Little Eye	2002	2	5728
+1609	Alila	2004	2	6970
+1621	Deadly Blessing	1981	2	6125
+1622	Stranded	2002	2	5911
+1629	Blood Gnome	2004	2	5229
+1637	Nightmares Come at Night	1970	2	6424
+1640	Return to Horror High	1987	2	5681
+1644	The Brady Bunch in the White House	2002	2	5331
+1661	Señorita Justice	2004	2	5149
+1664	Starship Troopers 2: Hero of the Federation	2004	2	5494
+1666	Kedma	2002	2	5690
+1667	Showboy	2002	2	5633
+1668	Barney: Let's Pretend with Barney	2003	2	2136
+1669	Unknown Origin	1995	2	4483
+1684	After Image	2001	2	5523
+1687	Fist of the North Star	1995	2	5524
+1694	Cold Feet	1989	2	5512
+1709	Petits Freres	2001	2	5322
+1710	The Wolves of Kromer	2000	2	4576
+1723	Barney: Now I Know My ABCs	2004	2	2273
+1727	Half-Caste	2004	2	5183
+1739	Joyride	1977	2	5529
+1740	Out on Parole	2004	2	5847
+1741	The Apple	1980	2	5188
+1743	The Death Curse	2003	2	5416
+1747	The Deserted Station	2002	2	5280
+1750	Intermedio	2005	2	5109
+1768	Where Truth Lies	1996	2	5591
+1773	Barney: Barney's Colorful World: Live	2004	2	4132
+1803	The Last of England	1988	2	5482
+1812	Daughters of Satan	1972	2	5429
+1817	Sebastiane	1976	2	5128
+1818	The Initiation	1984	2	5818
+1819	Sacred Flesh	2000	2	4344
+1820	Sawaal	1982	2	7374
+1821	Santa Claus Conquers the Martians	1964	2	4886
+1827	Bad Timing	1980	2	7337
+1831	Doosara Aadmi	1973	2	8203
+1842	Tears of the Black Tiger	2002	2	5054
+1844	Twenty Four Seven	1997	2	5831
+1851	Dark Town	2004	2	5306
+1854	Revenge in the House of Usher	1988	2	5356
+1862	Spanish Fly	1998	2	5673
+1888	La Petite Lili	2003	2	5996
+1895	Ski School 2	1995	2	5520
+1901	Paranoid	2000	2	5637
+1907	Death Valley: The Revenge of Bloody Bill	2004	2	4927
+1911	Justine	1977	2	5841
+1912	Relative Evil	2001	2	5955
+1924	Dracula 3000	2004	2	5217
+1930	Gargoyle	2004	2	5249
+1936	3 Steps to Heaven	1995	2	5471
+1958	Monkey on My Back	1957	2	5641
+1959	Robbing Peter	2004	2	5685
+1964	Bullfighter	2000	2	5299
+1965	Googoosh: Iran's Daughter	2000	2	9485
+1967	Speakeasy	2002	2	5164
+1970	Evil Remains	2004	2	5304
+1971	Dream Warrior	2003	2	5488
+1977	The Life	2004	2	5260
+1982	Mojave Moon	1996	2	5729
+1997	Nirvana	1997	2	5780
+2001	Runaway Daughters	1994	2	4970
+2023	Hellevator: The Bottled Fools	2005	2	5846
+2024	The Hillz	2004	2	5422
+2025	Barney: Let's Go to the Farm	2004	2	3001
+2038	Bad Girls from Valley High	2005	2	5036
+2039	Blood Angels	2005	2	5933
+2047	Bad Girls from Mars	1991	2	4876
+2051	Lady Frankenstein	1971	2	5023
+2054	The Vineyard	1989	2	5605
+2057	Mountaintop Motel Massacre	1986	2	5740
+2059	Reform School Girl	1994	2	4960
+2061	Mad Dog Morgan	1976	2	5944
+2068	The New Girlfriend	1999	2	4987
+2072	Appetite	1998	2	5954
+2074	5 Dolls for an August Moon	1970	2	4855
+2077	Bongwater	1997	2	5885
+2080	Room	2005	2	4420
+2086	Ripe	1997	2	5540
+2087	The Nameless	1999	2	5992
+2089	Lovelife	1997	2	5801
+2093	Malibu Spring Break	2003	2	4634
+2094	Jan Dara	2001	2	6508
+2100	Nowhere Man	2005	2	5008
+2101	My Mother's Smile	2005	2	6051
+2107	Hell's Gate 11:11	2004	2	5731
+2108	The Sadistic Baron Von Klaus	1962	2	5753
+2114	Dr. Orloff's Monster	1967	2	4849
+2115	Devil's Kiss	1976	2	5474
+2117	Creature	1985	2	5673
+2120	Silent Tongue	1993	2	6392
+2124	Knives of the Avenger	1966	2	5083
+2126	Boccaccio '70	1962	2	12235
+2128	Carry On Columbus	1992	2	5125
+2137	My Summer of Love	2004	2	5205
+2138	The Puffy Chair	2005	2	5082
+2148	Exposure	2000	2	5569
+2160	The Wickeds	2005	2	5173
+2162	A Case of Honor	1991	2	5284
+2163	Assassin of the Tsar	1991	2	6008
+2164	Chronicle of the Raven	2004	2	5324
+2166	Wolves in the Snow	2004	2	5561
+2170	The Slaughterhouse Massacre	2005	2	5486
+2182	Sins	2005	2	8070
+2188	HellBent	2005	2	5016
+2202	Two Coyotes	2001	2	5012
+2222	Free Zone	2005	2	5434
+2224	Calendar Girl Murders	1984	2	5713
+2225	Tiramisu	2002	2	6674
+2228	Crucible of Horror	1970	2	5447
+2241	Intern	2000	2	5603
+2251	Blue Demon	2004	2	5445
+2276	Pinocchio's Revenge	1996	2	5637
+2278	Satan's Little Helper	2004	2	5865
+2279	Bringing Rain	2003	2	4828
+2292	Zeta One	1969	2	5149
+2297	Magdalena  the Unholy Saint	2004	2	6486
+2300	Blood of Beasts	2005	2	5351
+2319	Bubble	2006	2	4406
+2323	Film Geek	2005	2	4245
+2327	Keane	2004	2	5611
+2332	Ghost Watcher 2	2005	2	5356
+2333	The Weeping Meadow	2004	2	9743
+2335	Barney: Let's Go to the Beach	2005	2	2746
+2338	Noorie	1979	2	6905
+2340	Faasle	1985	2	8369
+2344	King of the Lost World	2005	2	4829
+2350	Dinosaur Island	1994	2	4772
+2367	Players	2005	2	5313
+2371	Once a Jolly Swagman	1949	2	5898
+2372	Konga	1961	2	5403
+2376	Beach Balls	1988	2	4921
+2390	Chicken Tikka Masala	2005	2	5518
+2404	The Virgin Stripped Bare by Her Bachelors	2000	2	7612
+2408	Cavite	2006	2	4792
+2409	Our Very Own	2005	2	6371
+2410	CSA: Confederate States of America	2004	2	5357
+2411	Wide Awake	2006	2	4763
+2422	Phil the Alien	2004	2	4939
+2428	Little Tony	1998	2	5554
+2440	Meeting Daddy	2000	2	5487
+2449	Dead Bodies	2003	2	5205
+2450	Klepto	2003	2	4940
+2453	Frozen Angels	2005	2	5017
+2460	In Between Days	2006	2	4895
+2465	Kill the Poor	2006	2	5037
+2468	Grad Night	2006	2	5359
+2473	Aaltra	2004	2	5396
+2477	The Forest for the Trees	2003	2	4808
+2493	Dinner with an Assassin	2005	2	5268
+2507	Drifters	2003	2	7256
+2508	Satanic	2006	2	5293
+2512	Family Values: An American Tragedy	1996	2	3371
+2532	Curse of the Swamp Creature	1966	2	4862
+2540	95 Miles to Go	2004	2	4653
+2543	Klimt	2006	2	5862
+2554	The Boy &#38; the Pirates	1960	2	5051
+2560	Warning Shadows	1923	2	5135
+2562	Pinoy Blonde	2005	2	5728
+2564	Severed: Forest of the Dead	2005	2	5741
+2569	The Brotherhood	2001	2	5126
+2570	Agnes and His Brothers	2004	2	6703
+2578	Haunted Highway	2006	2	5027
+2580	Benito: The Rise and Fall of Mussolini	1993	2	NULL
+2588	Demonic	2005	2	4994
+2589	Possessed	2002	2	5360
+2593	The Sex Thief	1974	2	5589
+2603	Virgin Witch	1972	2	5316
+2604	To and From New York	2006	1	4846
+2621	Concorde Affair	1978	2	5736
+2626	Old Joy	2006	2	4404
+2628	Head Trauma	2006	2	5001
+2629	Dust Devil	1992	2	5213
+2635	Ulli Lommel's Black Dahlia	2006	2	4893
+2636	The Feeding	2006	2	5379
+2637	Psychopathia Sexualis	2006	1	5919
+2646	Hip Hop Life	2006	2	4787
+2686	After the Rain	1999	2	6617
+2690	One to Another	2006	2	5618
+2691	Private Property	2006	2	5327
+2696	Another Gay Movie	2006	2	5625
+2698	The Architect	2006	2	4882
+2699	Hoodlum &#38; Son	2002	2	5521
+2743	Zombie Nation	2004	2	4884
+2744	One Arabian Night	1920	2	6203
+2745	Anna Boleyn	1920	2	7118
+2746	The Wildcat	1921	2	4919
+2753	Woman Is the Future of Man	2004	2	5047
+2754	This Revolution	2005	2	5667
+2762	Slumber Party	2005	2	4587
+2766	Men at Work	2006	2	4477
+2772	Day Night Day Night	2006	2	5683
+2778	Colma: The Musical	2006	2	6038
+2787	Kate Clinton	2005	2	5111
+2846	Everybody Says I'm Fine!	2001	2	6180
+2862	Eagle vs. Shark	2007	2	5267
+2863	Drained	2006	2	6040
+2868	The Goddess of 1967	2000	2	6861
+2870	Adrift in Manhattan	2007	2	5428
+2872	Home Before Midnight	1979	2	6380
+2874	The Mini-Skirt Mob	1968	2	5157
+2881	Color Me Kubrick	2005	2	5200
+2889	Perfect 10 Model Boxing: Vol. 1	2006	2	3391
+2890	Woman Times Seven	1967	2	6475
+2893	The Ceremony	1963	2	6378
+2956	I Am an S&#38;M Writer	2000	2	5272
+2957	Vibrator	2003	2	5654
+2960	Ed Gein: The Butcher of Plainfield	2006	2	5372
+2966	Barney: Let's Go to the Fire House	2007	2	3380
+2973	Starcrash	1979	2	5490
+3000	Beyond Hatred	2005	2	5162
+3011	National Lampoon's TV: The Movie	2006	2	4996
+3037	The Hamiltons	2006	2	5191
+3041	Sex Sells	2005	2	5762
+3044	Penny Dreadful	2006	2	5539
+3045	Strange Circus	2005	2	6509
+3062	Brush with Death	2007	2	4871
+3093	Shapeshifter	2005	2	4879
+3128	Pirates of Treasure Island	2006	2	5135
+3129	Dead Line	2007	2	5184
+3130	The Da Vinci Treasure	2006	2	5478
+3131	The 9 11 Commission Report	2006	2	5184
+3132	The Comeback	1978	2	6022
+3133	Succubus: Hell-Bent	2006	2	5757
+3136	2 Days in Paris	2007	2	6039
+3162	Dragon	2006	2	5028
+3174	Diary of a Cannibal	2007	2	4922
+3181	Kidnapped	1974	2	5731
+3183	Gangs of the Dead	2006	2	5332
+3193	Curse of the Zodiac	2007	2	4897
+3208	Barney: Shake Your Dino Tail	2007	2	NULL
+3211	Mama's Foot	2007	2	4841
+3232	Year of the Fish	2007	2	5789
+3239	The Amazing Transparent Man	1960	2	3467
+3240	Chicago Massacre: Richard Speck	2007	2	5520
+3245	Race You to the Bottom	2005	2	4400
+3247	U-Carmen	2005	2	7335
+3343	The Tomb	2007	2	4869
+3362	Descent	2007	2	6285
+3364	Day Zero	2008	2	5562
+3369	Mummy Maniac	2007	1	4815
+3375	Transmorphers	2007	2	5188
+3376	Say Salaam India	2006	2	7823
+3383	Meatball Machine	2005	2	5387
+3389	The Go Master	2006	2	6113
+3531	The Chambermaid	2004	2	5645
+3532	Borderline Cult	2007	2	4881
+3606	Water Lilies	2007	2	5018
+3608	Heartbeat Detector	2007	2	8072
+3669	Paranoid Park	2007	2	5075
+3803	Eik Dasttak	2006	2	8322
+3925	Closing Escrow	2007	2	5588
+4010	Universal Soldiers	2007	2	5106
+4011	Invasion of the Pod People	2007	2	5112
+4018	Six Sex Scenes and a Murder	2008	2	5197
+4113	Cash	2007	2	8263
+4153	The Castle	1997	2	7378
+4181	Be Yourself	1930	2	3874
+4182	Elf Bowling: The Movie	2007	2	4884
+4183	The Pursuit of Happyness	2005	2	3684
+4444	Running with Arnold	2006	2	4310
+4573	The Dead One	2007	2	5325
+4589	Buried Alive	2007	2	5678
+4609	Hardrock	2007	2	4728
+4613	The Iron Rose	1973	2	4807
+4621	Angel	2007	2	7134
+4740	Invasion	2005	2	4870
+4741	Flanders	2006	2	5473
+4745	30 000 Leagues Under the Sea	2007	2	5121
+4747	The Inner Life of Martin Frost	2007	2	5596
+4756	CIA: Exiled	1993	2	5542
+4800	Cougar Club	2007	2	5834
+4801	Living Goddess	2007	2	5346
+4802	Choking Man	2006	2	4936
+4873	Dangerous Curves	1989	2	5585
+4877	Intimate Affairs	2001	2	6398
+4977	Downloading Nancy	2008	2	6135
+5089	Love Comes Lately	2007	2	4896
+5090	Momma's Man	2008	2	5910
+5093	A Good Day to Be Black &#38; Sexy	2007	2	5496
+5097	What Just Happened?	2008	2	6239
+5107	Deficit	2007	2	4781
+5217	Go	2007	2	6445
+5218	Ram Gopal Varma Ki Aag	2007	2	8996
+5219	Dil Dosti Etc.	2007	2	6234
+5229	Walker	1987	2	5680
+5235	Khoya Khoya Chand	2007	2	7781
+5238	Gauri: The Unborn	2007	2	5644
+5260	The Hands of Orlac	1924	2	6776
+5275	Monster	2008	2	5199
+5431	The Haunting of Rebecca Verlaine	2003	2	5140
+5436	Boarding Gate	2007	2	6374
+6399	Good Chemistry	2008	2	5138
+6402	Sick Nurses	2007	2	4931
+6460	En la Cama	2005	2	5086
+6476	Where Is Francis?	2007	2	4987
+6484	Blackout	2007	2	5349
+6486	Insiang	1976	2	5585
+6492	Dead Man's Bounty	2006	2	5664
+6493	Barney: Hi! I'm Riff	2008	2	3420
+6495	Diary of a High School Bride	1959	2	4370
+6496	The First Time	1968	2	5397
+6497	In Dangerous Company	1988	2	5737
+6499	Saintly Sinners	1962	2	4707
+6518	Festival Shorts Collection	2008	2	NULL
+6555	Allan Quatermain and the Temple of Skulls	2008	2	5915
+6633	The Day We Met	1990	2	5451
+6635	Variety	1983	1	6036
+6640	Take Out	2004	2	5299
+6643	Schizo	1976	2	6556
+6644	Raising Jeffrey Dahmer	2006	2	5122
+6645	Killing Car	1993	2	5274
+6647	Three  Two  One	1974	2	9306
+6657	August the First	2007	2	4876
+6672	A Throw of Dice	1929	2	4585
+6801	Trapped Ashes	2006	2	6261
+6819	Dungeon Girl	2008	2	4863
+6834	Green River	2008	2	5612
+6848	Won Ton Ton: The Dog Who Saved Hollywood	1976	2	5496
+6851	Poultrygeist: Night of the Chicken Dead	2006	2	6172
+6853	Lovesongs: Yesterday  Today &#38; Tomorrow	2008	2	5472
+6876	Joe Dancer: The Monkey Mission	1981	2	5787
+6877	Joe Dancer: The Big Trade	1981	2	5528
+6878	Joe Dancer: The Big Black Pill	1981	2	5832
+6881	Once Upon a Scoundrel	1974	2	5367
+6890	Wonderful Town	2007	2	5541
+6894	Times and Winds	2006	2	6689
+6898	La France	2007	2	6143
+6903	Belphegor: Phantom of the Louvre	2001	2	5801
+6920	The Boston Strangler	2008	2	5578
+6932	The Garden of Earthly Delights	2004	2	6231
+6933	The Roe's Room	1997	2	5427
+6951	Son of Sam	2008	2	4847
+6954	Bangkok Love Story	2007	2	5356
+6959	Blackenstein	1973	2	5192
+6968	I Want Candy	2007	2	5431
+6970	Miss Gulag	2007	2	3666
+6971	Believe	2007	2	4733
+6976	Vampire Diary	2007	2	5349
+6985	Killer's Moon	1978	2	5537
+6998	Back to Normandy	2007	2	6790
+7000	Death Racers	2008	2	5548
+7001	20 Years After	2008	2	5717
+7005	Bruno	2009	2	4880
+7018	Summer 2007	2008	2	9597
+7129	House of the Sleeping Beauties	2006	2	5942
+7164	Doughboys	2008	2	4784
+7208	Native Dancer	2008	2	5182
+7266	Just My Luck	1957	2	5191
+7268	New York  I Love You	2008	2	6198
+7291	Happiness	1935	2	3891
+7292	Karzzzz	2008	2	8255
+7296	Hulla	2008	2	6377
+7312	Mera Pind	2007	2	9902
+7430	Leave 'Em Laughing	1981	2	6159
+7433	Country Wedding	2008	2	5913
+7435	Tony Manero	2008	2	5831
+7588	Liverpool	2008	2	4902
+7758	Nine	2009	2	7107
+7790	Eldorado	2008	2	4865
+7792	Dare	2009	2	5446
+7793	In Love We Trust	2007	2	6929
+7800	Tehilim	2007	2	5729
+7802	Murder by the Book	1987	2	5676
+7839	Little Big Top	2006	2	4979
+7842	The Quare Fellow	1962	2	5392
+7847	Once More with Feeling	2009	2	6091
+7862	Against the Dark	2009	2	5634
+7870	The Workshop	2007	2	5503
+7871	Sacred Love-Making	2007	2	3861
+7873	Detective Bureau 2-3: Go to Hell Bastards	1963	2	5290
+7874	3 Seconds Before Explosion	1967	2	5069
+7970	The Life of Lucky Cucumber	2008	2	4815
+8002	Nollywood Babylon	2008	2	4449
+8003	The Limits of Control	2009	2	6955
+8025	Chain Link	2008	2	5861
+8031	The Trouble with Romance	2008	2	5280
+8034	Claustrophobia	2008	2	6012
+8037	10 Items or Less: Season 3	2009	2	NULL
+8044	The Showdown	2009	2	5588
+8045	Baseline Killer	2008	2	4920
+8064	The Nostradamus Kid	1993	2	7226
+8068	For the Love of Movies: The Story of American Film Criticism	2009	2	4832
+8128	The Escapees	1981	2	6395
+8137	13B	2009	2	7701
+8138	Super Capers	2008	2	5593
+8146	Reunion	2009	2	5721
+8213	My Last Five Girlfriends	2009	2	5231
+8215	Seven Minutes in Heaven	2008	2	5884
+8235	Paintball	2009	2	5365
+8237	The Telling	2009	2	5007
+8255	Harder They Fall	2005	2	4389
+8259	Boogie Woogie	2009	2	5664
+8263	Gasolina	2007	2	4030
+8271	Dholi Taaro Dhol Waage	2008	2	9634
+8273	Greenberg	2010	2	6456
+8299	Ghosts of Goldfield	2007	2	5204
+8322	Antichrist	2009	2	6512
+8326	Stingray Sam	2009	2	3636
+8336	Los Bastardos	2008	2	5169
+8342	Naked Ambition: An R-Rated Look at an X-Rated Industry	2009	2	4823
+8343	Zombie High	1987	2	5437
+8354	The Time That Remains	2011	2	6578
+8365	Rebirth: New Orleans	2013	2	3641
+8366	Never on Tuesday	1988	2	5246
+8367	Main Street	2011	2	5637
+8369	Spring Fever	2009	2	6424
+8412	United Red Army	2007	2	11419
+8423	Modus Operandi	2009	2	4554
+8440	Bounty	2008	2	5732
+8441	Forbidden Quest	2006	2	8531
+8442	I Can See You	2008	2	5824
+8448	William Shatner's Gonzo Ballet	2009	2	3044
+8452	Valhalla Rising	2009	2	5563
+8484	Fruit Fly	2009	2	5603
+8508	Salvage	2009	2	4534
+8509	Ted Bundy	2008	2	5721
+8552	Zero Bridge	2008	2	5853
+8573	Kal Kissne Dekha	2009	2	7434
+8577	Nightstalker	2009	2	4897
+8578	Drifter: Henry Lee Lucas	2009	2	5442
+8581	Dream	2008	2	5683
+8609	Dachimawa Lee	2008	2	5946
+8611	Lala Pipo: A Lot of People	2009	2	5616
+8617	The Graves	2010	2	5302
+8633	Hadewijch	2009	2	6341
+8638	The Human Centipede: First Sequence	2009	2	5517
+8705	Scouts Honor: Badge to the Bone	2009	2	5446
+8712	Mutants	2008	2	5014
+8713	Dark Forest of Death	2006	2	5968
+8716	The Shock Labyrinth	2009	2	5328
+8721	Pandemic	2009	2	5479
+8919	Down Terrace	2009	2	5592
+8920	Mandrill	2009	2	5280
+9034	Sikandar	2009	2	6202
+9035	Life During Wartime	2009	2	5849
+9053	Robsessed: Inside the Life of Robert Pattinson	2009	2	4161
+9064	Marine Life	2000	2	5710
+9070	Beast Within	2008	2	5539
+9074	Burke and Hare	1972	2	5641
+9131	Son of the Sunshine	2009	2	5243
+9154	Er Dong	2008	1	9001
+9157	The Last Days of Emma Blank	2009	2	5410
+9167	Samaantar	2009	2	5887
+9168	Shob Charitro Kalponik	2008	2	5854
+9169	Do Knot Disturb	2009	2	7196
+9200	All Hell Broke Loose	2009	2	5039
+9206	Inspector Bellamy	2009	2	6621
+9439	Ward No. 6	2009	2	4992
+9448	Hooking Up	2009	2	5728
+9614	Splatter	2009	2	1741
+9672	Tripping Forward	2009	2	4904
+9681	Perpetuum Mobile	2009	2	5153
+9702	The American	2010	2	6311
+9719	3 Backyards	2010	2	5284
+9741	Double Take	2009	2	4759
+9860	Easter Bunny  Kill! Kill!	2006	2	5418
+9976	Heroin Town	2004	2	4941
+10074	YellowBrickRoad	2010	2	6051
+10075	General Orders No. 9	2009	2	4306
+10186	The Reeds	2009	2	5163
+10188	Tony	2010	2	4361
+10196	Fading of the Cries	2011	2	5607
+10197	The Fields	2011	2	5936
+10204	Son of Man	2006	2	5262
+10327	Housequake	2009	2	5556
+10330	Love	2011	2	5042
+10341	Nobody's Business	1996	2	3497
+10342	Intimate Stranger	1991	2	3669
+10343	The Family Album	1986	2	3612
+10552	If I Want to Whistle  I Whistle	2010	2	5613
+10586	Brighton Rock	2010	2	6673
+11644	Helena from the Wedding	2010	2	5343
+11645	Earthling	2010	2	6642
+11655	What You Don't See	2009	2	5349
+11729	We Don't Care About Music Anyway	2009	2	4786
+11737	A New York Thing	2009	2	5108
+12209	Barney: Halloween Party	1998	2	3043
+12246	Holiday Favorites: Vol. 5	1954	2	3225
+12247	Holiday Favorites: Vol. 1	1952	2	3485
+12251	The Lie	2011	2	4917
+12253	The Harimaya Bridge	2009	2	7240
+12255	David Holzman's Diary	1967	2	4390
+12259	Disengagement	2007	2	6789
+12265	Example Short 24	2010	2	675
+12266	Example Short 29.97	2010	2	658
+12267	Example Short 25	2010	2	678
+12275	Paju	2009	2	6685
+12278	Earth	1930	2	4298
+12317	Karma Calling	2009	2	5319
+12323	Forbidden World	1982	2	4627
+12324	Galaxy of Terror	1981	2	4886
+12359	Tees Maar Khan	2010	2	7847
+12362	Being Michael Madsen	2007	2	5216
+12367	Cross My Heart	1987	2	5436
+12368	Metalstorm: The Destruction of Jared-Syn	1983	2	4960
+12373	Ceremony	2011	2	5379
+12378	The Autobiography of Nicolae Ceausescu	2010	2	11277
+12380	Kaboom	2010	2	5186
+12382	Film Socialisme	2010	2	5834
+12384	Tuesday  After Christmas	2010	2	5753
+12390	Uninhabited	2010	2	5234
+12392	Over Your Cities Grass Will Grow	2010	2	6332
+12398	My Joy	2010	2	7694
+12400	Titanic 2	2010	2	5389
+12401	Raavan	2010	2	8138
+12402	Herpes Boy	2009	2	4996
+12656	Big Money Rustlas	2010	2	5704
+12661	The Juche Idea	2008	2	3720
+12676	Infection	2010	2	5680
+12855	All Night Long	1962	2	5478
+12859	1428	2009	2	6889
+12874	Mad Ron's Prevues from Hell	1987	2	5032
+12876	The Socalled Movie	2010	2	5259
+12877	Nénette	2010	2	4033
+12957	8213: Gacy House	2010	2	5119
+12962	Kung Fu Joe	2009	2	4967
+12964	Madchen in Uniform	1958	2	5426
+12997	Vampires	2010	2	5520
+13000	Fatso	2008	2	5641
+13004	Mutant Girls Squad	2010	2	5381
+13006	Gallants	2010	2	5819
+13010	Rubber	2010	2	4944
+13320	Don't Look in the Cellar	2008	2	5279
+13334	Jedi Junkies	2010	2	4361
+13337	The Rig	2010	2	5656
+13348	The Possession of David O'Reilly	2010	2	5110
+13494	The Happy Hooker Goes to Washington	1977	2	5068
+13495	Rain Without Thunder	1992	2	5138
+13496	New Year's Evil	1980	2	5138
+13502	Dead Beat	1994	2	5629
+13506	Hammer Down	1992	1	5032
+13509	Legion of Iron	1990	2	5423
+13510	A Man Called Sarge	1990	2	5309
+13513	From Hollywood to Deadwood	1989	2	5977
+13623	Lady in a Corner	1989	2	5657
+13626	The Eleventh Commandment	1986	2	5615
+13627	Goodbye  Supermom	1988	2	5620
+13629	Gor	1987	2	5692
+13630	If It's Tuesday  It Still Must be Belgium	1987	2	5884
+13636	Flying Devils	1985	1	6633
+13637	Leo the Last	1970	2	6235
+13638	Love 600	1970	1	5429
+13642	Listen  Let's Make Love	1969	2	5537
+13644	It Rains in My Village	1968	2	4788
+13645	Revolt	1986	2	4343
+13646	Murders in the Rue Morgue	1971	2	5911
+13648	Condor	1986	2	4384
+13649	Gentlemen in White Vests	1970	1	5506
+13650	Face Off	1972	2	6105
+13651	Money Talks	1972	2	5169
+13652	Chrome and Hot Leather	1971	2	5508
+13653	The American Snitch	1983	2	4982
+13654	Dagmar's Hot Pants  Inc.	1971	2	5665
+13659	Jennifer on My Mind	1971	2	5422
+13662	Nana	1982	2	5547
+13665	Full Moon High	1981	2	5683
+13666	Anatomy of a Seduction	1978	2	5775
+13671	The Evictors	1979	2	5547
+13672	For the Love of It	1980	2	5789
+13675	Message from Space	1978	2	6328
+13677	Cracking Up	1977	2	5087
+13678	Mad Bull	1977	2	5794
+13679	The Devil Within Her	1975	2	5620
+13681	Crime and Passion	1976	2	5543
+13682	Act of Vengeance	1974	2	5422
+13683	Hustling	1975	2	5913
+13684	Bamboo Gods and Iron Men	1974	2	5754
+13688	Invasion of the Bee Girls	1973	2	5183
+13689	Little Cigars	1973	2	5526
+13691	Jealousy	1984	2	5736
+13692	...At First Sight	1995	2	5407
+13697	Journey to the Seventh Planet	1962	2	4618
+13698	The Clown and The Kid	1961	2	3951
+13701	Beyond the Time Barrier	1960	2	4470
+13702	The Minotaur	1960	2	5756
+13705	Alakazam the Great	1960	2	5052
+13706	Mary Had a Little	1961	2	4868
+13707	Invasion of the Star Creatures	1962	2	4789
+13709	Incident in an Alley	1962	2	5079
+13712	The Cat Burglar	1961	2	3922
+13713	A Cold Wind in August	1961	2	4748
+13714	Zoo Baby	1960	2	3545
+13715	Fanfare for a Death Scene	1964	2	4411
+13717	Flame in the Streets	1961	2	5593
+13718	Bitter Harvest	1963	2	5744
+13719	Diary of a Bachelor	1964	2	5251
+13721	Angels from Hell	1968	2	5208
+13725	Killers Three	1968	2	5293
+13731	Dangerous Exile	1957	2	5521
+13734	Hong Kong Confidential	1958	2	4101
+13735	Machete	1958	2	4503
+13739	Counterplot	1959	2	4652
+13742	I Thank You	1941	2	4880
+13745	Charley's Big-Hearted Aunt	1940	2	4570
+13750	Aberration	1997	2	5575
+13751	Almost Blue	1992	2	5053
+13765	Easy Money	1948	2	5578
+13766	All Over the Town	1949	2	5299
+13770	Made in Heaven	1952	2	4815
+13774	Egypt by Three	1953	2	4604
+13776	Meet Me Tonight	1952	2	5070
+13780	Bwana Devil	1952	2	4769
+13782	Gog	1954	2	4976
+13792	Desert Sands	1955	2	5259
+13795	Flight to Hong Kong	1956	2	5331
+13796	Canyon Crossroads	1955	2	4557
+13797	The Beast with a Million Eyes	1955	2	4700
+13800	Emergency Hospital	1956	2	3766
+13803	High Tide at Noon	1957	2	6001
+13804	Hell Bound	1957	2	4297
+13807	Checkpoint	1956	2	5052
+13898	The Cycle Savages	1969	2	4914
+13901	Day of the Nightmare	1965	2	5359
+13903	2010: Moby Dick	2010	2	5244
+13904	Mega Shark vs. Crocosaurus	2010	2	5310
+13989	The Lost Tribe	2010	2	5377
+14017	The Puck Hogs	2009	2	5533
+14018	Silent Souls	2010	2	4455
+14025	The Fast Lady	1963	2	5725
+14026	Badlanders	1992	2	5295
+14029	The Last Mile	1959	2	4940
+14037	Passione	2010	2	5312
+14328	Fantômas III: The Murderous Corpse	1913	2	5432
+15058	3	2010	2	7154
+15642	Clear Blue Tuesday	2009	1	6392
+15736	A Horrible Way to Die	2010	2	5232
+16023	Oka!	2011	2	6301
+16027	Norwegian Ninja	2010	2	4801
+16067	The Back Nine	2009	2	5201
+16074	Essential Killing	2010	2	5094
+16095	Jucy	2010	2	5089
+16096	Post Mortem	2010	2	5861
+16098	Kalamity	2010	2	6017
+16112	The Haunting of Amelia	2008	2	5577
+16134	Look  Stranger	2010	2	4918
+16344	Sandcastle	2010	1	5465
+16345	Sensation	2010	2	6425
+16347	Special Treatment	2010	2	5739
+16350	Rio Sex Comedy	2010	2	6744
+16356	Stonerville	2010	2	5303
+16444	Buzzkill	2012	2	5618
+16446	Compulsion	2012	2	5316
+16599	Littlerock	2010	2	4976
+16602	Free Radicals: A History of Experimental Cinema	2012	2	4951
+17614	10 Items or Less	2006	2	NULL
+18399	Room in Rome	2010	2	6453
+18783	Hourglass	1996	2	5228
+18784	Curse of the Starving Class	1994	2	6114
+18785	A Demon in My View	1991	2	6726
+18786	Dracula's Widow	1988	2	4953
+18965	Vanquisher	2009	2	5576
+19000	So Young  So Bad	1950	2	5462
+19002	Screamtime	1983	2	5354
+19003	Secret Screams	1989	2	5092
+19005	Tank Battalion	1958	2	4792
+19006	Street People	1976	2	5505
+19009	Those Secrets	1992	2	5593
+19010	Three Bad Sisters	1956	2	4369
+19011	Terraces	1977	2	4384
+19016	Violent Playground	1958	2	6387
+19019	Transatlantic Tunnel	1935	2	5573
+19023	My Brother's Keeper	1948	2	5211
+19030	Prelude To Fame	1950	2	5303
+19034	Pier 5  Havana	1959	2	4101
+19042	Sailing Along	1938	2	5676
+19057	An African Election	2011	2	5194
+19071	The Catechism Cataclysm	2011	2	4869
+19082	Equinox	1992	2	6343
+19156	Hellgate	1989	2	5484
+19190	Anneliese: The Exorcist Tapes	2011	2	5448
+19212	The Off Hours	2010	2	5646
+19213	The Nine Muses	2010	1	5771
+19234	Here	2011	2	7593
+19235	Restless City	2011	2	4810
+19238	Prairie Love	2011	2	4864
+19258	Septien	2011	2	4766
+19305	Mirch	2010	2	6693
+19396	Proteus	1995	2	5813
+19397	Prototype X29A	1992	2	5886
+19427	Fred &#38; Vinnie	2011	2	5343
+19428	Pete Smalls Is Dead	2010	2	5669
+19432	Barney: Best Fairy Tales	2010	2	2908
+19458	The Sleeping Car	1990	2	5253
+19459	Nightscare	1994	2	5343
+19652	Satin	2011	2	5050
+19703	She Monkeys	2011	2	5006
+20650	Prey	2010	2	4777
+21712	Apollo 18	2011	2	5192
+21889	American Animal	2011	2	5726
+21923	In the Land of the Deaf	1992	2	5565
+21934	Fambul Tok	2011	2	4925
+21943	Example Short 23.976 Burned In Timecode	2010	2	670
+22207	The Innkeepers	2011	2	6078
+22215	Example 30 Minute 23.976 Remote Content	2010	2	2010
+22220	Turkey Bowl	2011	2	3834
+22222	Surrogate Valentine	2011	2	4438
+22223	No Matter What	2011	2	5670
+22255	Meeting Spencer	2010	2	5164
+22364	The Dish &#38; the Spoon	2011	2	5453
+22382	Heaven's Story	2010	2	16736
+22757	2012: Ice Age	2011	2	5493
+22762	Priest of Love	1981	2	5927
+22768	Spiderhole	2010	2	4910
+22769	A Cold Day in Hell	2011	2	5750
+22785	Cold Sweat	2010	2	4808
+22786	The FP	2011	2	4999
+22790	Macho	2009	2	4465
+22791	Apart	2011	2	5179
+22792	My Sucky Teen Romance	2011	2	4609
+22972	The Miracle	1991	2	5523
+22973	Africa First: Volume One	2010	2	7353
+22977	The Public Eye	1972	2	5596
+22980	Moment By Moment	1978	2	6294
+23010	Gnarr	2010	2	5423
+23011	Maria My Love	2011	2	5952
+23017	Beyond the Black Rainbow	2010	2	6577
+23857	The Rite of Exorcism: Myths  Mystery &#38; Hope	2011	2	3145
+23928	Alice in Murderland	2010	2	5163
+23945	The Good Doctor	2011	2	5449
+23953	World of the Dead: The Zombie Diaries 2	2011	2	5530
+24194	Brother's Justice	2010	2	4826
+24195	My Friend &#38; His Wife	2006	2	6690
+24197	Persona	2008	2	5033
+24198	8000 Miles 2: Girls Rapper	2010	2	5872
+24200	8000 Miles	2009	2	4848
+24201	Dasepo Naughty Girls	2006	2	6253
+24202	The Last Days of the World	2011	2	5716
+24203	I'm Not Jesus Mommy	2010	2	5204
+24205	Five Senses of Eros	2009	2	7742
+24208	They're Out of the Business	2011	2	5342
+24209	The Tenant	2010	2	5725
+24211	Crackers	1984	2	5517
+24228	Texture of Skin	2007	2	5680
+24230	Cosmopolitan	2003	2	3223
+24409	Barely Legal	2011	2	5375
+24482	Sweatshop	2009	2	5431
+24535	Any and Every Which Way	2010	2	4288
+24655	September 30  1955	1977	2	6075
+24658	The Girl from Petrovka	1974	2	6183
+24661	Without Men	2011	2	5197
+24662	Checkered Flag or Crash	1977	2	5914
+24667	The Other Half	2006	1	6640
+24669	Hard Breakers	2010	2	5891
+24672	Dad Savage	1998	2	6277
+24673	Company of Killers	1971	2	5223
+24739	Beloved	2011	2	8319
+24745	Sleeping Beauty	2011	2	6103
+24759	House of Pleasures	2011	2	7523
+24765	Toomelah	2011	2	6093
+24766	Beauty	2011	2	6292
+24767	Tatsumi	2011	2	5765
+24769	The Naked Man	1998	2	5891
+24775	Don't Go in the Woods	2010	2	4989
+24778	Just Like a Woman	2012	2	5258
+25309	Smile	2009	2	5021
+25375	Bikini Girls on Ice	2009	2	4901
+25379	American Breakdown	2007	2	5117
+25448	Karate-Robo Zaborgar	2011	2	6882
+25462	Entrance	2012	2	5065
+25472	Unfinished Spaces	2011	2	5170
+25502	Circus Maximus	2010	2	4791
+25917	2-Headed Shark Attack	2012	2	5278
+25918	3 Musketeers	2011	2	5227
+25919	Dragon Crusaders	2011	2	5435
+25937	Super Cyclone	2012	2	5355
+26368	Chick Magnet	2011	2	5291
+26445	Benito: The Rise and Fall of Mussolini	1993	2	NULL
+26722	Hellraiser: Revelations	2011	2	4506
+26948	Little Norse Prince Valiant	1968	2	NULL
+26952	Tokyo Gore School	2009	2	6573
+26957	Feathers of Passion	2003	2	6308
+26958	Fighting Express Vol 1: Battle Run	2009	2	4682
+26959	Fighting Express Vol 3: End of the World	2009	2	4483
+26960	Fighting Express Vol 2: Otaku Fighter	2009	2	4346
+26961	Ghost Photos	2006	2	4371
+26964	Too Young to Die	2002	2	3974
+26965	Before Valentine	2009	2	5508
+26966	Haunting Me	2007	2	5468
+26967	Silk Shoes	2006	2	6035
+26968	Cheerleader Queens	2003	2	7458
+26971	One Night: Choice of Evil	2010	2	4706
+26972	A Place of One's Own	2009	1	7102
+26973	Missing Person	2009	2	5693
+26974	Seesaw	2010	2	4253
+26977	Land of Scarecrows	2008	1	5413
+26980	Searching for the Elephant	2009	2	8777
+26982	Bloody Innocent	2010	2	5933
+26987	Bombay Summer	2009	2	6160
+26996	Housewife's Afternoon Delight	2010	2	4540
+26998	The Aggressives	2005	2	6438
+27000	Then Summer Came	2008	2	7116
+27001	Bravo  My Life	2005	2	5554
+27002	Chasing My Girl	2009	2	6239
+27005	Hypnotized	2004	2	6091
+27007	Sweet Sex and Love	2003	2	5068
+27008	Acoustic	2010	2	5259
+27011	Love Collage	2003	2	6701
+27012	May Love be Restored	1980	2	7797
+27014	Raised from Dust	2007	1	6111
+27015	Edo Porn	1981	2	7147
+27017	Immoral Affairs	1997	2	6180
+27018	Leave Me Alone	2004	2	5801
+27021	M	2006	2	6583
+27022	In Love with the Dead	2007	2	5870
+27023	Trick or Cheat	2009	2	5608
+27024	Nightmare Detective 2	2008	2	6180
+27026	Scout Man	2000	2	6853
+27027	Happy Naked Christmas	2003	2	6568
+27029	Punching at the Sun	2006	2	4579
+27030	Lust in Hell 2	2010	2	5028
+27031	The Hotel	2002	2	6512
+27033	End Call	2008	2	5554
+27036	Black Night	2006	2	5883
+27037	Screen at Kamchanod	2007	2	5576
+27043	Running on Empty	2010	2	4765
+27044	Mr. Lee vs. Mr. Lee	2007	2	5954
+27045	O Lucky Man	2003	2	5497
+27046	Meteor	2004	2	5325
+27047	Goodman Town	2002	1	6086
+27048	Viva! Love	2008	2	6052
+27049	Fine  Totally Fine	2008	2	6613
+27052	Feng Shui	2003	2	5631
+27055	The Executioner	2009	2	5730
+27057	Pavilion Salamandre	2006	2	5908
+27064	Last Scene	2002	1	5984
+27069	Looking For Cherry Blossoms	2009	1	3897
+27070	Monopoly	2006	2	5520
+27073	Fujian Blue	2007	2	5205
+27075	Antarctic Journal	2005	2	6919
+27079	Using	2007	2	6086
+27080	Betelnut	2006	1	6715
+27081	The Pot	2008	2	6785
+27083	Boat	2009	2	6898
+27084	Loner	2008	2	6271
+27106	Super  Girls	2007	2	4371
+27109	The Pit and the Pendulum	2009	2	5490
+27336	Girlfriends	2009	2	6913
+27338	Lust in Hell	2009	2	5119
+27419	Help Me  Help You	2009	2	4954
+27435	High Risk	1988	1	NULL
+27669	Sarah Palin: The Undefeated	2011	2	7059
+27756	Nightmares	1980	2	4768
+27894	High Risk	1988	1	NULL
+27897	Stained	2010	2	5439
+28044	Helldriver	2010	2	7038
+28082	Americano	2011	2	6355
+28429	Dark Horse	2011	2	5156
+28488	This Is Not a Film	2011	2	4666
+28501	The Deep Blue Sea	2011	2	5913
+28521	The Coffin	2008	2	4887
+28522	Occupant	2010	2	5079
+28530	Alleged	2010	2	5614
+28543	Rampart	2011	2	6474
+28953	Alien Armageddon	2011	2	5783
+29211	El Crack	2011	2	4020
+29212	Santos	2008	2	5840
+29314	The Woman in the Fifth	2011	2	5031
+29315	Twixt	2012	2	5288
+29316	A Burning Hot Summer	2011	2	5712
+29320	The Loneliest Planet	2011	2	6801
+29387	11 11 11	2011	2	5220
+29396	Stories of Apparitions	2006	2	5590
+29611	The Human Centipede 2: Full Sequence	2011	2	5271
+29675	This Is Not a Movie	2011	2	5948
+29775	Festival Shorts Collection	2008	2	NULL
+29807	Barney: Shake Your Dino Tail	2007	2	NULL
+29830	Casa de mi Padre	2012	2	5067
+29902	In Their Sleep	2010	2	4981
+30416	Blubberella	2011	2	5205
+30533	An Affirmative Act	2010	2	5601
+30612	And They're Off...	2011	2	5408
+30625	Alps	2011	2	5629
+30791	Fat City  New Orleans	2011	2	5767
+30792	American Standards	2008	2	5647
+30799	Armed and Deadly	2011	2	5810
+30819	Dispatch	2011	2	5025
+30822	Behold the Lamb	2011	2	4971
+30829	Joker	2012	2	6193
+30993	Stalker	2010	2	4828
+30994	Shiva	2006	2	6877
+30996	Sesh Sanghat	2009	2	8850
+30997	Sardari Begum	1996	2	7011
+30998	Bhairavi	1996	2	8359
+31000	Do Rahain	1997	2	7586
+31001	Gudgudee	1997	2	8304
+31003	Abohomaan	2009	2	7091
+31004	Abelar: Tales of an Ancient Empire	2010	2	5362
+31007	Papa Kehte Hain	1996	2	8384
+31009	Saaz	1997	2	8887
+31010	Gudia	1997	1	7083
+31012	Is Raat Ki Subah Nahin	1996	2	7921
+31015	Lalchee	1996	2	8653
+31077	Unforgivable	2011	2	6697
+31097	Light of Mine	2011	2	4587
+31100	About Fifty	2011	2	4840
+31281	The Little Death	2010	2	4501
+31282	Zodiac: The Race Begins	2006	2	5089
+31356	The Giants	2011	2	5030
+31359	Foreign Parts	2010	2	4818
+31387	Heart of Now	2010	2	5351
+31507	Nude Nuns With Big Guns	2010	2	5506
+31513	Branded	2012	2	6388
+31745	Pimp	2010	2	5485
+31836	Little Norse Prince Valiant	1968	2	NULL
+31972	Bad Girl Island	2007	2	5606
+32068	Devil's Gravestone	2010	2	5712
+32069	Headhunter: The Assessment Weekend	2010	2	5629
+32126	Strange Sex: Season 1	2010	2	NULL
+32223	Yakuza Weapon	2011	2	6309
+32422	Stags	2011	2	6116
+32424	1313: Wicked Stepbrother	2011	1	4524
+32425	1313: Actor Slash Model	2011	1	4337
+32472	Splintered	2010	2	5101
+32532	Strange Sex	2010	2	NULL
+32535	Complicity	2000	2	5999
+32536	Collusion	2003	2	5448
+32537	A Chorus of Disapproval	1989	2	5726
+32539	Bad Karma	2002	2	5003
+32540	The Ante	2006	2	4793
+32543	The Harpist	1999	2	5372
+32544	Honeymoon	1997	2	5854
+32545	Entropy	1999	2	6587
+32547	Flipping	1997	2	6141
+32548	Foreign Fields	2000	2	5572
+32551	Dubble	2008	1	6289
+32552	2nd Take	2011	2	6159
+32554	Sample People	2000	1	5592
+32555	Yesterday's Hero	1979	1	5720
+32557	Side by Each	2008	2	5888
+32558	Shaded Places	2000	2	5350
+32559	Turbine	2011	2	5113
+32560	Redball	1999	2	5070
+32562	True North	2006	2	5520
+32564	Smoke 'n' Lightnin'	1995	2	4905
+32565	Stripper: Natasha Kizmet	2009	2	5192
+32608	Northeast	2011	2	4591
+32680	For Ellen	2012	2	5622
+32693	Simon Killer	2012	2	6328
+32734	Wrong	2013	2	5616
+32735	Young &#38; Wild	2012	2	5709
+32736	Violeta Went to Heaven	2011	2	6573
+32776	The Broken Tower	2011	2	6641
+32910	Poolboy: Drowning Out the Fury	2011	2	5375
+32912	In the Garden of Sounds	2010	2	5141
+33006	Love Free or Die	2012	2	4978
+33013	Terminal Force	1995	2	5432
+33015	Example Short 11 Min 23.976 Remote with Burned-in Subtitles	2012	2	670
+33016	Example 8 Hour 23.976 Remote	2012	2	NULL
+33017	Example 2 Hour 23.976 Remote	2012	2	7370
+33021	Example Short 11 Min 23.976 Remote	2012	2	670
+33033	My Best Day	2012	2	4503
+33036	That's What She Said	2012	2	5048
+33038	Bestiaire	2012	2	4317
+33042	The Theatre Bizarre	2011	2	6826
+33045	Mugamoodi	2012	2	9714
+33556	Episode 50	2011	2	4897
+33575	Robotropolis	2011	2	5082
+33583	Nazis at the Center of the Earth	2012	2	5377
+33732	Cowboys &#38; Indians	2011	2	5120
+33736	The Opposite Sex and How to Live with Them	1992	2	5177
+33738	Blindside (1986)	1986	2	6140
+33792	Contradictions of the Heart	2009	2	5142
+33812	The Snowtown Murders	2011	2	7216
+33814	Exit Strategy	2012	2	4748
+33815	Death of the Virgin	2009	2	6066
+33820	Cherry Bomb	2011	2	4932
+33872	Jack &#38; Diane	2012	2	6321
+33875	Bindlestiffs	2012	2	4762
+33876	Welcome to Pine Hill	2012	2	4833
+33989	Vasermil	2007	2	5959
+33994	Caribe	1987	2	5253
+34006	Abraham Lincoln vs. Zombies	2012	2	5780
+34077	1313: Cougar Cult	2012	1	4386
+34080	Off White Lies	2011	2	5351
+34092	Seducing Charlie Barker	2010	2	5603
+34094	Knockdown (Bangkok)	2010	2	5585
+34098	Arcadia	2012	2	5450
+34380	TEDTalks: Giving Addicts	2011	2	NULL
+34655	Gingerdead Man 3: Saturday Night Cleaver	2011	2	4687
+34722	Chumballs: Season 1	2009	2	NULL
+34822	Two of a Kind: Spirou &#38; Fantasio: Season 1	2006	2	NULL
+34867	Two of a Kind: Spirou &#38; Fantasio: Season 2	2008	2	NULL
+34970	Contraptus: Season 1	2009	2	NULL
+34995	Michel Strogoff	1997	2	5048
+35084	Two of a Kind: Spirou &#38; Fantasio	2006	2	NULL
+35358	Chumballs	2009	2	NULL
+35362	Contraptus	2009	2	NULL
+35406	Soulja Boy: The Movie	2011	2	5552
+35597	Popatopolis	2009	2	4505
+35598	1313: UFO Invasion	2011	1	5053
+35599	1313: Bigfoot Island	2011	1	4584
+35615	Gimme the Loot	2012	2	4762
+35717	The Corridor	2010	2	5930
+35721	White Knuckles	2010	2	5227
+35722	Apnea	2010	2	5269
+35723	Love in Transit	2010	2	5519
+35896	King Kelly	2012	2	5177
+35994	Psycho Gothic Lolita	2010	2	5278
+36142	Midnight Matinee	1989	2	5585
+36169	The Guest House	2012	2	4921
+36172	Joe + Belle	2011	2	4818
+36173	The Dead Want Women	2012	2	4445
+36221	Diahann Carroll: The Lady. The Music. The Legend	2010	2	3299
+36234	The Haunting of Julia	1977	2	5833
+36325	The Road	2011	2	6590
+36349	Purification	2012	2	5042
+36350	Penumbra	2011	2	5397
+36385	Summer	2008	2	4965
+36388	Stony Island	1978	2	5751
+36403	TEDTalks: Giving Addicts	2011	2	NULL
+36476	666 Revealed	2006	2	3626
+36483	In the Dark Half	2011	2	4940
+36484	Surfing Soweto	2009	2	4916
+36609	Alien Origin	2012	2	5296
+36718	From the Ground Up	2011	2	1799
+36723	Edens Lost and Found	2006	2	NULL
+36738	The Over the Hill Band	2011	2	5920
+36752	Rubberneck	2012	2	5054
+36755	Journey to Planet X	2012	2	4671
+36871	Strange Sex: Season 2	2011	2	NULL
+36876	Adventures of Thunderstorm: Return of Thor	2011	2	5154
+36880	The Dead Undead	2010	2	5589
+36881	1313: Bermuda Triangle	2011	1	4458
+36974	The Story of Mr. Sorry	2009	2	3907
+36976	Bleak Night	2010	2	7005
+37006	First Winter	2012	2	5330
+37013	Edens Lost and Found	2006	2	NULL
+37018	Caught in the Act	2008	2	5758
+37055	Goobers!	1997	2	4821
+37063	Mary Marie	2010	2	4700
+37109	Adult Entertainment: Disrobing an American Idol	2010	2	6383
+37116	One Last Chance	2003	2	5786
+37118	Grey Skies	2010	2	5045
+37144	Area 407	2012	2	5398
+37199	Paradise: Love	2012	2	7083
+37201	Post Tenebras Lux	2012	2	6882
+37212	In the Fog	2012	2	7675
+37215	In Another Country	2012	2	5328
+37217	Cosmopolis	2012	2	6556
+37221	Tormented	2011	2	4988
+37230	Strippers vs. Werewolves	2012	2	5588
+37277	The Letter	2012	2	5644
+37285	The Tree	2009	2	4167
+37287	Perfidy	2009	2	5234
+37290	Who Killed the White Llama?	2007	2	6960
+37293	Beyond The Grave	2010	2	5330
+37296	Optical Illusions	2009	2	6137
+37297	Expecting	2011	2	5023
+37299	Baby Shower	2011	2	5513
+37300	Before the World Ends	2009	2	6004
+37302	Mr. Hush	2010	2	5293
+37333	After Porn Ends	2010	2	5590
+37381	Ultrasonic	2012	2	5428
+37415	Antiviral	2012	2	6471
+37416	Three Worlds	2012	2	6010
+37461	1313: Billy the Kid	2012	2	4349
+37463	Kiara the Brave	2012	2	5405
+37499	Clandestine Childhood	2011	2	6632
+37500	Aliyah	2012	2	5271
+37534	The Love Guide	2011	2	4888
+37546	Corpo celeste	2011	2	5950
+37581	The Casserole Club	2012	2	5645
+37583	Clash of the Empires	2012	2	5208
+37584	40 Days and Nights	2012	2	5168
+37588	Rise of the Zombies	2012	2	5367
+37614	1313: Hercules Unbound	2012	1	4339
+37615	Parasitic	2012	2	4704
+37689	Queen of Hearts	2009	2	4923
+37710	Exodus	2007	2	6657
+37713	A Thousand Cuts	2011	2	4669
+37715	Just Around the Corner	2011	2	5839
+37718	The ABCs of Death	2012	2	7764
+37721	Zombies vs. Strippers	2012	2	4478
+37850	Red Flag	2012	2	4989
+37854	G-Dog	2012	2	5541
+37856	Neighboring Sounds	2012	2	7865
+37861	Master Qi and the Monkey King	2010	2	4896
+37900	Celluloid Bloodbath	2012	2	6147
+37903	We Are the Hartmans	2011	2	4976
+38116	The Young Sinner	1965	2	4861
+38117	Attack of the 50 Foot Cheerleader	2012	2	4985
+38141	Supernatural Activity	2012	2	5569
+38142	Tokiori: Creases of Time	2011	2	6394
+38143	She Dreamed That I Died	2011	2	4667
+38146	30 Beats	2012	2	5308
+38147	Collaborator	2011	2	5249
+38148	Nipples and Palm Trees	2012	2	5376
+38280	The Apocalypse Watch	1997	2	NULL
+38311	Gang of Roses II: Next Generation	2012	2	5581
+38336	Rites of Spring	2011	2	4827
+38347	1313: Night of the Widow	2012	1	4585
+38709	Abel	1986	2	5927
+38710	Blush	1995	2	6834
+38711	Buried Secrets	2009	2	5517
+38713	Curfew	1994	2	4285
+38715	Ermo	1994	2	5461
+38716	Felice... Felice...	1998	2	5954
+38717	Footy Legends	2006	2	5149
+38718	Golden Chicken I	2002	2	6397
+38719	Golden Chicken II	2003	2	6022
+38720	Haifa	1996	2	4359
+38722	Ploy	2007	2	6356
+38725	Phileine Says Sorry	2003	2	5374
+38726	The Suit	2003	2	5535
+38727	Tempo	1996	2	5285
+38728	Shanghai Dreams	2005	2	7281
+38730	The Tulse Luper Suitcases - The TV Series	2004	1	NULL
+38732	A Thousand Months	2003	2	7200
+38738	It's Hard To Be Nice	2007	2	5633
+38739	Invisible Waves	2006	2	7113
+38740	Hunt Angels	2006	1	5116
+38742	Little Sister	1995	2	5283
+38743	Little Red Flowers	2006	2	5514
+38744	A Life in Suitcases	2005	1	7213
+38745	KT	2002	2	7600
+38746	Mon-Rak Transistor	2001	2	6956
+38747	Mob Sister	2005	2	5339
+38748	Miao Miao	2008	2	5030
+38749	M Other	1999	2	8483
+38750	Parque Via	2008	2	5175
+38751	The Northerners	1992	2	6170
+38753	More Than Yesterday	1998	2	4951
+38756	Waiter	2006	2	5741
+38768	Understanding Jane	2001	2	5688
+38772	The Tulse Luper Suitcases	2003	1	NULL
+38797	Fanny  Annie &#38; Danny	2010	2	4844
+38806	Bong of the Dead	2011	2	5921
+38815	10 Items or Less: Season 1	2006	2	NULL
+38827	10 Items or Less: Season 2	2008	2	NULL
+38840	Conned	2010	2	6176
+38843	Hypothermia	2010	2	4362
+38861	Hospitalité	2010	2	5709
+38884	A Whisper to a Roar	2012	2	5673
+38892	Bikini Spring Break	2012	2	5257
+38950	The Anderson Monarchs	2012	2	4560
+38964	Sweet Evil	2010	2	5516
+38981	Scary or Die	2012	2	5657
+38998	The Oogieloves in the Big Balloon Adventure	2012	2	5241
+38999	Not Fade Away	2012	2	6735
+39004	The Wise Kids	2012	2	5743
+39011	Tabu	2012	2	7098
+39090	1313: Frankenqueen	2012	1	4610
+39143	Only God Forgives	2013	2	5376
+39268	Room 304	2011	2	5270
+39269	Heat Wave	2011	2	5584
+39270	Strange Frame	2012	2	5723
+39271	You Will Be Mine	2009	2	5747
+39272	The Dark Sea	2006	2	4706
+39273	Smalltown  Italy	2005	2	6096
+39274	The Life Zone	2011	2	4813
+39283	The Grand Theft	2011	2	4938
+39350	Husbands in Goa	2012	2	9011
+39497	Ne Quittez Pas	2004	2	6050
+39500	Headhunter	2005	2	5240
+39503	Biebermania!	2011	2	3703
+39504	Africa	1999	2	5179
+39506	4 Weeks of Sunshine	2005	1	5373
+39525	White Men Can't Dance	2012	2	6348
+39527	O.B.A.M. Nude	2009	1	4828
+39528	Alien Dawn	2012	2	4851
+39753	Death Watch	1980	2	7827
+39761	The Last Soul on a Summer Night	2012	2	3991
+39844	After Kony: Staging Hope	2011	2	5969
+39849	Toys in the Attic	2009	2	4684
+39850	Raaz 3: The Third Dimension	2012	2	8363
+39900	Lost Cause	2009	1	6809
+39931	Crowsnest	2012	2	5017
+40010	AniMen: The Galactic Battle	2012	2	5061
+40015	Something in the Air	2012	2	7320
+40022	Fred Won't Move Out	2012	2	4461
+40035	Kiss Kiss Bang Bang	2008	1	NULL
+40036	Champ	2008	1	NULL
+40096	Night of the Living Dead: Reanimation	2012	2	5287
+40102	Fleabag Monkeyface: Season 1	2012	2	NULL
+40115	Fleabag Monkeyface	2012	2	NULL
+40158	Love-Carrot 3	2011	2	5598
+40162	Creep Van	2012	2	5090
+40163	To the Wonder	2012	2	6751
+40168	Pieta	2012	2	6247
+40172	Paradise: Faith	2012	2	6773
+40184	Champ	2008	1	NULL
+40216	Kiss Kiss Bang Bang	2008	1	NULL
+40644	The House of Tomorrow	2011	2	3820
+40684	A Portrait of James Dean: Joshua Tree  1951	2012	2	5638
+40726	Photographic Memory	2011	2	5246
+40738	Android Insurrection	2012	2	4969
+40778	Heart of the King	2007	2	5395
+40783	100 Years Of Evil	2012	2	4754
+40792	Come Out and Play	2012	2	5209
+40807	Berberian Sound Studio	2012	2	5539
+40827	Lagegi	2007	1	NULL
+40857	Ajj De Ranjhe	2012	2	8636
+40908	Feel	2006	2	5258
+40911	Breaking News	2010	2	4670
+40921	Game Day	1999	2	7064
+40923	Veronica	2012	2	5486
+40925	Shakira	2007	2	NULL
+40935	Lagegi	2007	1	NULL
+40981	Shakira	2007	2	NULL
+40983	Hansel and Gretel: Warriors of Witchcraft	2012	2	4978
+41017	Shepard &#38; Dark	2012	2	5306
+41045	Errors of the Human Body	2012	2	6120
+41084	Meri Toh Lag Gayi Naukri	2011	1	NULL
+41097	Barrio Tales	2012	2	4924
+41134	Cherry Tree Lane	2010	2	4645
+41351	Sid vs. Varun	2009	1	NULL
+41396	Sid vs. Varun	2009	1	NULL
+41397	Meri Toh Lag Gayi Naukri	2011	1	NULL
+41427	Heleno	2011	2	7061
+41436	Addicted to Fame	2012	2	5356
+41467	Horrible Histories: Season 1	2001	2	NULL
+41513	Bollywood Fry	2010	1	NULL
+41531	Angels  Aliens &#38; UFOs	2012	2	4691
+41568	12 12 12	2012	2	5138
+41570	Hansel &#38; Gretel	2013	2	5395
+41574	500 MPH Storm	2013	2	5208
+41668	Bollywood Fry	2010	1	NULL
+42007	Money Shot	2012	2	4890
+42116	Sun Yaar Chill Maar	2007	1	NULL
+42161	Sun Yaar Chill Maar	2007	1	NULL
+42194	Edgemont: Season 5	2005	2	NULL
+42228	Edgemont: Season 3	2002	2	NULL
+42239	Edgemont: Season 4	2003	2	NULL
+42248	Edgemont: Season 1	2001	2	NULL
+42262	Edgemont: Season 2	2002	2	NULL
+42272	Flirt	1995	2	5011
+42275	The Club	1994	2	5628
+42277	Ugesh Sarcar's 3rd Degree	2007	1	NULL
+42322	Horrible Histories	2001	2	NULL
+42421	Edgemont	2001	2	NULL
+42477	Ugesh Sarcar's 3rd Degree	2007	1	NULL
+42513	Total Retribution	2011	2	5115
+42591	Emotional Atyachar	2010	1	NULL
+42600	Emotional Atyachar	2010	1	NULL
+42603	That Kind of Girl	1963	2	4635
+42606	The Struggle	1931	2	4617
+42607	Schoolgirl Hitchhikers	1973	2	4761
+42608	A Silent Britain	2006	2	5317
+42609	Permissive	1972	2	5426
+42610	Primitive London	1965	2	5251
+42611	Mutantes: Punk Porn Feminism	2009	2	5508
+42612	A Not So Silent Night	2009	2	5642
+42613	Measure For Measure	2006	1	4307
+42639	Garbage	2013	2	4975
+42640	The Man From Beyond	1922	2	4016
+42647	Crawl	2011	2	4854
+42649	London in the Raw	1964	2	4628
+42650	I Don't Want To Be A Man	1918	2	2692
+42651	Kingdom of Shadows	1998	2	4060
+42653	Beast Beneath	2011	2	5359
+42654	The Black Knight Returns	2009	1	5224
+42655	Berserker: Hells Warrior	2004	2	5062
+42656	Demon Kiss	2008	2	5422
+42657	The Fifth Mind	2007	2	4409
+42658	Echelon 8	2009	2	6449
+42659	Get The Girl	2009	2	4856
+42660	My Apocalypse	2008	1	4809
+42662	Among Thieves	2009	1	5659
+42665	Fantômas I: In the Shadow of the Guillotine	1913	2	3268
+42667	Camera Afrique	1983	2	5685
+42670	The Doll	1919	2	3847
+42671	Fantômas II: Juve vs. Fantômas	1913	2	3718
+42672	Fantômas IV: Fantômas vs. Fantômas	1914	2	3590
+42673	Fantômas V: The False Magistrate	1914	2	4247
+42674	The Getting Of Wisdom	1978	2	5846
+42676	Headin' Home	1920	2	4390
+42677	Hedda Gabler	2004	1	4501
+42678	I Am the Ripper	2004	1	5587
+42782	Hollow	2013	2	5693
+42923	Tristana	1970	2	5913
+42989	Molly's Girl	2012	2	7354
+43226	The Frankenstein Theory	2013	2	5209
+43232	Alois Nebel	2011	2	5081
+43234	C.O.G.	2013	2	5352
+43409	Greystone Park	2012	2	4976
+44095	Computer Chess	2013	2	5479
+44096	This Is Martin Bonner	2013	2	4980
+44097	Newlyweeds	2013	2	5247
+44124	The Kitchen	2012	2	4754
+44142	Room 514	2012	2	5484
+44152	Sadako	2012	2	5781
+44153	Deadball	2011	2	5911
+44154	The Tulse Luper Suitcases	2003	1	NULL
+44155	The Tulse Luper Suitcases - The TV Series	2004	1	NULL
+44243	The Jewel	2011	2	6217
+44245	20 Cigarettes	2010	2	5431
+44287	Jack the Giant Killer	2013	2	5231
+44428	Shotgun Wedding	2013	2	5480
+44440	Face 2 Face	2012	2	6441
+44443	Infected	2013	2	5698
+44561	InAPPropriate Comedy	2013	2	5020
+44568	Money Movers	1978	2	5408
+44575	23:59	2011	2	4686
+44590	On the Yard	1978	2	6048
+44592	No More Dirty Deals	1993	2	5081
+44596	Where Is Parsifal?	1984	1	4937
+44603	Potpourri	2011	2	5365
+44607	Primary Motive	1992	2	5464
+44613	Run Angel Run	1969	2	5707
+44615	September Storm	1960	2	5338
+44617	Shakma	1990	2	6090
+44619	Shoot	1991	1	5827
+44621	Mutant Species	1995	2	6004
+44625	Moonbase	1997	2	5320
+44627	Son of Hercules vs. Medusa	1963	2	5416
+44628	Harakiri	1919	2	5236
+44629	Overkill	1987	2	4873
+44630	Luster	2010	2	5120
+44631	Hercules vs. Moloch	1963	2	5928
+44633	Hercules vs. Hydra	1960	2	5618
+44636	Marked for Murder	1989	1	5409
+44638	Hot Target	1985	2	5480
+44640	Maya	1982	1	6778
+44641	Isn't Life Wonderful!	1954	2	4788
+44642	It's All Over Town	1963	2	3339
+44643	I Love NY	1987	2	5566
+44644	It's All Happening	1963	2	6061
+44645	Isabelle Eberhardt	1991	2	6555
+44646	Inspired: The Voices Against Prop 8	2011	2	5326
+44647	Keys to Freedom	1988	2	5801
+44648	Kung-fu Gold	1975	2	5440
+44650	Carry On Cowboy	1966	2	5440
+44652	The Lion of Thebes	1964	2	5277
+44653	Let 'Em Have It	1935	2	5751
+44657	Makers Our Story	2011	1	8162
+44658	Married People  Single Sex 2	1995	2	5609
+44661	Confessions of Tom Harris	1969	1	5311
+44662	The Club	1980	1	5700
+44664	Deadly Hero	1975	1	6042
+44666	Escape from Hell Island	1963	2	4802
+44667	The Diamond Hunters	1975	2	5321
+44668	The Duke of West Point	1938	2	6554
+44669	Heavenly Pursuits	1986	2	5450
+44672	The Fumbleheads	1999	2	5376
+44673	George Biddle  CPA	2012	1	6367
+44675	Totem Blue	2009	1	5589
+44680	The Christmas That Almost Wasn't	1966	2	5367
+44681	Charlie Don't Surf	2012	2	4517
+44683	Chinese Boxes	1984	1	5234
+44689	Generation Um...	2012	2	5829
+44691	The Mortified Sessions: Season 1	2011	2	NULL
+44776	Hansel &#38; Gretel Get Baked	2013	2	5210
+44777	Sing Me the Songs That Say I Love You: A Concert for Kate McGarrigle	2012	2	6517
+44835	Robin Hood: The Ghost of Sherwood	2012	2	6985
+44850	The Mortified Sessions	2011	2	NULL
+44863	Age of Dinosaurs	2013	2	5301
+44867	AE: Apocalypse Earth	2013	2	5236
+44934	I Give It a Year	2013	2	5841
+44963	Zombie Massacre	2013	2	5447
+44965	Hounds	2012	2	NULL
+44968	Harland Williams: A Force of Nature	2013	2	3238
+44980	Apartment 4E	2012	2	5243
+44981	Blood Runs Cold	2011	2	4646
+45013	Hounds: Series 1	2012	2	NULL
+45026	Night Vision	2011	2	5046
+45065	Axe Giant: The Wrath of Paul Bunyan	2013	2	5403
+45092	Killer Mountain	2011	2	5295
+45093	Little Bite in the Big City	2011	2	4452
+45094	The Ghastly Love of Johnny X	2012	2	6353
+45096	100 Below Zero	2013	2	5298
+45103	Vivan Las Antipodas	2011	2	6498
+45104	Alias Ruby Blade: A Story of Love and Revolution	2012	2	4655
+45107	Example Short 16x9	2012	2	670
+45108	Settai	2013	2	7390
+45402	The Big Bad	2011	2	4660
+45465	The Last Will and Testament of Rosalind Leigh	2012	2	4826
+45469	Syrup	2013	2	5395
+45476	Stranded	2013	2	5271
+45483	Tied	2013	2	4787
+45639	We Are Family	2012	2	5035
+45649	Call Me Kuchu	2012	2	5148
+45653	Immortalized: Season 1	2013	2	NULL
+45661	Aaron Karo: The Rest Is History	2010	2	3920
+45663	Dragon Knight	2003	2	6310
+45770	The Expelled	2010	2	4697
+45773	Race for Glory	2013	2	3364
+45774	Ritual	2012	2	5179
+45950	Five Fingers	2012	2	NULL
+46009	One Kine Day	2011	2	6009
+46020	Absence	2013	2	4866
+46106	Bob Saget: That's What I'm Talkin' About	2013	2	3316
+46121	Sex.Violence.FamilyValues.	2013	2	2810
+46122	Liars All	2013	2	5504
+46125	Lost and Found in Armenia	2012	2	6052
+46143	Five Fingers	2012	2	NULL
+46215	Baby  It's You	1998	2	3371
+46217	Frogs for Snakes	1998	2	5894
+46299	How to Be Louise	1990	1	4480
+46373	Casting Couch	2013	2	5603
+46374	Elfie Hopkins: Cannibal Hunter	2012	2	5341
+46380	Paranormal Asylum	2013	2	5290
+46383	Lizzie	2013	2	5171
+46819	Two Roses and a Golden Rod	1969	2	4959
+46820	The Telephone Book	1971	2	5253
+46821	Night of the Cobra Woman	1972	2	4598
+46824	Ecstasies of Women	1969	2	4467
+46825	Linda and Abilene	1969	2	5512
+46826	Blue Summer	1973	2	4765
+46827	Crime Zone	1988	2	5550
+46829	Barracuda	1978	2	5702
+46888	Immortalized	2013	2	NULL
+46891	Example Short V	2010	2	670
+46892	La Sirga	2012	2	5420
+46893	The Deflowering of Eva van End	2012	2	5639
+46946	Example Short XIII 23976 4x3	2010	2	670
+46947	Example Short XIV 23976 8 Hour	2010	2	NULL
+46948	Example Short XI 23976 30 Minute	2010	2	2010
+46949	Example Short XII 23976 2 Hour	2010	2	7370
+46950	Example Short IX 25 fps 11 Minute Remote	2010	2	678
+46951	Example Short X 2997 fps 11 Minute Remote	2010	2	658
+46952	Example Short VII 23976 11 Minute Remote	2010	2	670
+46984	13 13 13	2013	2	5167
+47012	Sharknado	2013	2	5237
+47021	Rastamouse	2011	2	NULL
+47023	Ping Pong	2012	2	4777
+47088	Rastamouse: Season 1	2011	2	NULL
+47118	Punk in Africa	2012	2	4864
+47121	Stud Life	2012	2	5213
+47163	Wild Animal Baby Explorers: Season 1	2010	2	NULL
+47193	Alien Uprising	2012	2	6076
+47197	Wild Animal Baby Explorers: Season 2	2011	2	NULL
+47562	Zombie Hunter	2013	2	5578
+47606	iSteve	2013	2	4690
+47682	A Russell Peters Christmas	2011	2	2657
+47693	Harold's Going Stiff	2011	2	4791
+47890	She Wants Me	2012	2	5223
+48649	Determinism	2011	2	4603
+48782	The Mole Man of Belmont Avenue	2010	2	5715
+48828	Ambrosia	2012	2	4714
+48868	The Phoenix and the Magic Carpet	1995	2	5337
+48869	Jackie Mason Is...One Angry Man	2010	2	5724
+49019	Paranormal Whacktivity	2013	2	5360
+49020	Brotherhood of the Traveling Rants	2013	2	3893
+49021	Eurotrapped	2013	2	6192
+49022	Self Storage	2013	2	5569
+49066	Rogue Saints	2012	2	6159
+49067	Black Forest	2012	2	5106
+49209	Gypsy Davy	2011	2	5756
+49330	Richard Herring: What Is Love Anyway?	2012	2	5824
+49331	Lee Nelson: Live	2012	2	3366
+49332	Grumpy Old Women Live	2008	2	6128
+49337	Russell Kane: Smokescreens &#38; Castles Live	2011	2	3419
+49359	Wild Animal Baby Explorers	2010	2	NULL
+49388	Blast Vegas	2013	2	5152
+49391	Darkroom	2013	2	4837
+49499	Chanbara Beauty: The Movie - Vortex	2009	2	5314
+49503	Shinobi Girl: Season 1	2012	2	NULL
+49515	Female Convict Scorpion	2008	2	6051
+49516	Stalled	2013	2	5089
+49518	Zombie Ass: Toilet of the Dead	2011	2	5113
+49532	Yakuza Hunters: Final Death Ride Battle	2010	2	5768
+49535	Yakuza Hunters: Duel in Hell	2010	2	4531
+49557	Shinobi Girl	2012	2	NULL
+49567	El Fuente: 2997 MP10	2013	2	470
+49568	El Fuente: 25 MP10	2013	2	464
+49569	El Fuente: 24 MP10	2013	2	484
+49570	El Fuente: 23976 MP10	2013	2	484
+49572	El Fuente: 5994 MP10	2013	2	471
+49573	El Fuente: 50 MP10	2013	2	464
+49574	El Fuente: 30 MP10	2013	2	470
+49582	Mumfie's White Christmas	1996	2	1350
+49586	Winter Wonderland	2013	2	1812
+49589	Kate Plus Ei8ht	2010	2	NULL
+49590	Kate Plus Ei8ht: Season 1	2010	2	NULL
+[5] The list of years and number of movies released each year
+1913	3
+1914	20
+1915	1
+1916	1
+1918	1
+1919	3
+1920	6
+1921	2
+1922	2
+1923	4
+1924	5
+1925	5
+1926	2
+1927	4
+1928	2
+1929	5
+1930	5
+1931	3
+1932	4
+1933	7
+1934	8
+1935	11
+1936	7
+1937	4
+1938	5
+1939	6
+1940	9
+1941	7
+1942	3
+1943	7
+1944	10
+1945	9
+1946	6
+1947	9
+1948	13
+1949	9
+1950	10
+1951	32
+1952	15
+1953	17
+1954	17
+1955	14
+1956	60
+1957	98
+1958	72
+1959	87
+1960	123
+1961	119
+1962	124
+1963	88
+1964	126
+1965	104
+1966	103
+1967	279
+1968	172
+1969	124
+1970	140
+1971	130
+1972	166
+1973	168
+1974	178
+1975	134
+1976	118
+1977	136
+1978	230
+1979	140
+1980	106
+1981	112
+1982	153
+1983	267
+1984	302
+1985	333
+1986	287
+1987	280
+1988	333
+1989	419
+1990	467
+1991	364
+1992	479
+1993	561
+1994	515
+1995	590
+1996	685
+1997	783
+1998	838
+1999	1173
+2000	900
+2001	1167
+2002	1109
+2003	1389
+2004	1368
+2005	1919
+2006	2403
+2007	2871
+2008	3338
+2009	4417
+2010	5079
+2011	5432
+2012	4297
+2013	969
+2014	1
+[6] The number of movies that have a runtime of two hours
+2
